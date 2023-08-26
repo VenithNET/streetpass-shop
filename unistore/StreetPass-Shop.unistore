@@ -1,0 +1,2864 @@
+{
+	"storeInfo": {
+		"title": "StreetPass-Shop",
+		"author": "MattTheTekie",
+		"url": "https://raw.githubusercontent.com/sdkpaint/streetpass-3.0-config/master/unistore/StreetPass-Shop.unistore",
+		"file": "StreetPass-Shop.unistore",
+		"sheet": "StreetPass-Shop.t3x",
+		"sheetURL": "https://raw.githubusercontent.com/sdkpaint/streetpass-3.0-config/master/unistore/StreetPass-Shop.t3x",
+		"description": "Here you can find loads of StreetPass data!\nEnjoy browsing through the StreetPass shop! ~MattTheTekie!",
+		"version": 3,
+		"revision": 4
+	},
+	"storeContent": [
+		{
+			"info": {
+				"title": "Noxious Ninja's StreetPass2 GodMode9 script",
+				"author": "NoxiousNinja",
+				"description": "Noxious Ninja's StreetPass2 GodMode9 script",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 0,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v0.0.0"
+			},
+			"StreetPass2.gm9": [
+				{
+					"type": "downloadFile",
+					"file": "https://gist.github.com/noxiousninja/c7969b0028b067335d360f020753ef49/raw/5ccf556d6ee3f0a98a7c50de125891e557645e6a/StreetPass2.gm9",
+					"output": "sdmc:/gm9/scripts/StreetPass2.gm9"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 1",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 0 blue 2ds",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_1": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_1",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_1"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 2",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 0 blue jp",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_2": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_2",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_2"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 3",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 0 red jp",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_3": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_3",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_3"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 4",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 1 10 lime",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_4": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_4",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_4"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 5",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 2 10 red",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_5": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_5",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_5"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 6",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 3 special",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_6": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_6",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_6"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 7",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 4 special",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_7": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_7",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_7"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 8",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 5 special",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_8": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_8",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_8"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 9",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 6 fearlessclarke 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_9": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_9",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_9"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 10",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 7 Cams Original 0",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_10": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_10",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_10"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 11",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 8 sylve 10 a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_11": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_11",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_11"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 12",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 9 acnh 14",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_12": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_12",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_12"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 13",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 10 sylve 10 b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_13": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_13",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_13"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 14",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 11 sylve 10 c",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_14": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_14",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_14"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 15",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 12 sylve 10 d",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_15": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_15",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_15"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 16",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 13 sylve 10 e",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_16": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_16",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_16"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 17",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 14 sylve 10 f",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_17": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_17",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_17"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 18",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 15 woolfy euro",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_18": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_18",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_18"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 19",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 16 woolfy euro a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_19": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_19",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_19"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 20",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 17 boxheadrobotmonster 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_20": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_20",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_20"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 21",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 18 bungiefanak 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_21": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_21",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_21"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 22",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 19 diego 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_22": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_22",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_22"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 23",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 20 tessaract 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_23": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_23",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_23"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 24",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 21 armandprog",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_24": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_24",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_24"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 25",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 22 poicyss 9",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_25": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_25",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_25"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 26",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 23 cecilff4 8",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_26": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_26",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_26"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 27",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 24 cecilff4 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_27": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_27",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_27"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 28",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 25 fearlessclarke 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_28": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_28",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_28"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 29",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 26 nintenboy 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_29": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_29",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_29"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 30",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 27 nios 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_30": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_30",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_30"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 31",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 28 wiiuowner canada 5",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_31": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_31",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_31"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 32",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 29 lerpderp 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_32": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_32",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_32"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 33",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 30 kookieben 5",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_33": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_33",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_33"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 34",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 31 diego 9",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_34": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_34",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_34"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 35",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 32 nintenboy 4",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_35": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_35",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_35"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 36",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 33 ushiara 5",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_36": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_36",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_36"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 37",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 34 mrhuu 4",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_37": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_37",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_37"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 38",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 35 crabbycowman 2",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_38": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_38",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_38"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 39",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 36 awesome555 1",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_39": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_39",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_39"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 40",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 38 anon 1",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_40": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_40",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_40"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 41",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 38 liamxd special 1",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_41": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_41",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_41"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 42",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 39 cam",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_42": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_42",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_42"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 43",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 40 eddy99x",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_43": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_43",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_43"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 44",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 41 jacdabeast",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_44": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_44",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_44"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 45",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 42 juggernaut 0",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_45": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_45",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_45"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 46",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 43 new 3ds old",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_46": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_46",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_46"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 47",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 44 shadowwolf 13 a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_47": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_47",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_47"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 48",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 45 shadowwolf 13 b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_48": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_48",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_48"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 49",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 46 shadowwolf 13 c",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_49": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_49",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_49"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 50",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 47 shadowwolf13 d",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_50": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_50",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_50"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 51",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 48 subworx a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_51": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_51",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_51"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 52",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 49 subworx euro",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_52": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_52",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_52"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 53",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 50 subworx us",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_53": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_53",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_53"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 54",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 51 christopher a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_54": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_54",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_54"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 55",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 51 christopher b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_55": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_55",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_55"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 56",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 52 kita a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_56": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_56",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_56"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 57",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 53 kita b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_57": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_57",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_57"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 58",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 54 kita c",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_58": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_58",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_58"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 59",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 55 mrhuu a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_59": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_59",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_59"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 60",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 56 mrhuu b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_60": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_60",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_60"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 61",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 57 sadow a",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_61": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_61",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_61"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 62",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 58 sadow b",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_62": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_62",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_62"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 63",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 59 sadow c",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_63": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_63",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_63"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 64",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 60 solothehawk",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_64": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_64",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_64"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 65",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 61 thesaman",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_65": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_65",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_65"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 66",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 62 usualnoise",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_66": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_66",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_66"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 67",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 63 wercanos",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_67": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_67",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_67"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 68",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! MattTheTekie's StreetPass Data",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_68": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_68",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_68"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 69",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 64 anon 1",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_69": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_69",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_69"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 70",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 65 anon 2",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_70": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_70",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_70"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 71",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 65 anon 2",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_71": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_71",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_71"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 72",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 66 anon 3",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_72": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_72",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_72"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 73",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 67 anon 4",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_73": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_73",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_73"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 74",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 68 anon 5",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_74": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_74",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_74"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 75",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 69 anon 6",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_75": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_75",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_75"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 76",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 70 anon 7",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_76": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_76",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_76"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 77",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 71 anon 8",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_77": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_77",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_77"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 78",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 72 anon 9",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_78": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_78",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_78"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 79",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 73 anon 10",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_79": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_79",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_79"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 80",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 74 anon 11",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_80": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_80",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_80"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 81",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 75 anon 12",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_81": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_81",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_81"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 82",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 76 anon 13",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_82": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_82",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_82"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 83",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 77 anon 14",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_83": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_83",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_83"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 84",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 78 anon 15",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_84": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_84",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_84"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 85",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 79 anon 16",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_85": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_85",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_85"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 86",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 80 anon 17",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_86": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_86",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_86"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 87",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 81 anon 18",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_87": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_87",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_87"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 88",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 82 anon 19",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_88": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_88",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_88"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 89",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 83 anon 20",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_89": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_89",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_89"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 90",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 84 anon 21",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_90": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_90",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_90"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 91",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 85 anon 22",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_91": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_91",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_91"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 92",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 86 anon 23",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_92": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_92",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_92"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 93",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 87 anon 24",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_93": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_93",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_93"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 94",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 88 anon 25",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_94": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_94",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_94"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 95",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 89 anon 26",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_95": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_95",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_95"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 96",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 90 anon 27",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_96": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_96",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_96"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 97",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 91 anon 28",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_97": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_97",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_97"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 98",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 92 anon 29",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_98": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_98",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_98"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 99",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 93 anon 30",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_99": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_99",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_99"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 100",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 94 anon 31",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_100": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_100",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_100"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 101",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 94 anon 31",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_101": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_101",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_101"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 102",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 95 anon 32",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_102": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_102",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_102"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 103",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 96 anon 33",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_103": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_103",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_103"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 104",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 97 anon 34",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_104": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_104",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_104"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 105",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 98 anon 35",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_105": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_105",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_105"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 106",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 99 anon 36",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_106": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_106",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_106"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 107",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 100 anon 37",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_107": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_107",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_107"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 108",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 101 anon 38",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_108": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_108",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_108"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 109",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 102 anon 39",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_109": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_109",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_109"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 110",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 103 anon 40",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_110": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_110",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_110"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 111",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 104 anon 41",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_111": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_111",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_111"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 112",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! 105 anon 42",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_112": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_112",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_112"
+				}
+			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 113",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! The Komfudo Mii!!!",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_113": [
+				{
+					"type": "downloadFile",
+					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_113",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_113"
+				}
+			]
+		}
+	]
+}
