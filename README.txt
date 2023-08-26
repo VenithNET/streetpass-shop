@@ -1,0 +1,1 @@
+demoData.json should be used as the UniStore location. You can figure out GitHub Actions to download the file to a repo if you need. You can also add http(or s)://HOST/downloadJson
