@@ -1,4 +1,4 @@
-# StreetPass Shop
+#StreetPass Shop
 Welcome to the StreetPass Shop UniStore!
 You can download all the StreetPass data you can dream of in our UniStore!
 If you would like to contribute to the dataset please upload your streetpass data at https://streetpass.test72.eu.org
