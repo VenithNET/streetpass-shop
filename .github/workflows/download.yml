@@ -11,5 +11,5 @@ jobs:
     - name: Downloading Configuration File
       run: |
         echo Downloading Configuration File
-        wget https://streetpass.test72.eu.org/downloadJson -O /home/runner/work/streetpass-3.0-config/streetpass-3.0-config/unistore/StreetPass-Shop.unistore
+        wget https://streetpass.test72.eu.org/downloadJson -O /home/runner/work/streetpass-shop/streetpass-3.0-shop/unistore/StreetPass-Shop.unistore
     - uses: stefanzweifel/git-auto-commit-action@v4
