@@ -1,18 +1,55 @@
 <!DOCTYPE html>
 <html>
+<style>
+    .custom-bg {
+        background-color: #0D0E12;
+    }
+    /* Style the checkbox and label for dark mode */
+    .dark .form-check-input:checked {
+        background-color: #000; /* Background color when checked */
+        border-color: #000; /* Border color when checked */
+    }
+    .dark .form-check-input:not(:checked) {
+        background-color: #000; /* Background color when unchecked */
+        border-color: #000; /* Border color when unchecked */
+    }
+    .dark .form-check-label {
+        color: #fff; /* Text color for the label in dark mode */
+    }
+
+    /* Style the file upload input and button in dark mode */
+    .dark input[type="file"] {
+        background-color: #000; /* Background color when choosing a file */
+        border-color: #000; /* Border color when choosing a file */
+        color: #fff; /* Text color when choosing a file */
+    }
+    .dark input[type="file"]::-webkit-file-upload-button {
+        background-color: #000; /* Background color when choosing a file (for Webkit browsers) */
+        border-color: #000; /* Border color when choosing a file (for Webkit browsers) */
+        color: #fff; /* Text color when choosing a file (for Webkit browsers) */
+    }
+    /* Style the "Extra info" textarea in dark mode */
+    .dark #extraInfo {
+        background-color: #000; /* Background color for the textarea */
+        border-color: #000; /* Border color for the textarea */
+        color: #fff; /* Text color for the textarea */
+    }
+</style>
+<body class="custom-bg">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/core-min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/sha256.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/enc-base64.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/pbkdf2.js"></script>
     {% include 'header.html' %}
-    <body {% if mode == 'dark' %}class="text-white bg-secondary"{% endif %}>
-        <div class="card {% if mode == 'dark' %}text-white bg-dark{% endif %} mb-3" style="width:90%; left: 5%; top:5px;">
-            <div class="card-header">
-                StreetPass Shop Store!
-                <h3>Download the UniStore file <a href="INSERT_UNISTORE_LINK_HERE">here</a>!</h3>
+<body {% if mode == 'dark' %}class="text-white bg-secondary dark"{% endif %}>
+<div class="card {% if mode == 'dark' %}text-white bg-dark dark{% endif %} mb-3" style="width:90%; left: 5%; top:5px;">
+    <center><div class="card-header">
+                Welcome to the StreetPass Shop Uploader!
+                <h4>Download the <a href="https://github.com/CrazyHellTechnologies/streetpass-shop/raw/main/unistore/StreetPass-Shop.unistore">UniStore</a></h4>
                 <div id="card-header" class="form-text">The UniStore updates every three hours.</div>
-                <h3>In need of support? Check out our Discord <a href="https://discord.gg/INSERT_DISCORD_HERE">here</a>!</h3>
+                <div id="card-header" class="form-text">Source code is available <a href="https://github.com/CrazyHellTechnologies/streetpass-shop">on our GitHub</a>.</div>
+                <div id="card-header" class="form-text">In need of support? Check out our <a href="https://gg.gg/CrazyHellTechnologiesChat">Discord</a>.</div>
             </div>
             <div class="card-body">
             <form id="uploadForm" action="/uploadJson" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
@@ -23,23 +60,25 @@
                 </div>
                 <!-- Add a hidden input field to store the file hash -->
                 <input type="hidden" id="fileHash" name="fileHash" value="">
-                <input type="hidden" id="token" name="token" value="INSERT_TOKEN_HERE">
+                <input type="hidden" id="token" name="token" value="armasecreta666">
                 <hr>
                 <label for="extrainfo" class="form-label">Extra info</label>
                 <div class="mb-3">
                     <div id="streetPassFileHelp" class="form-text">Optionally put any extra info that you want to show with the StreetPass data in the shop here!</div>
                     <textarea class="form-control" id="extraInfo" name="extraInfo"></textarea>
                 </div>
-                <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
-                    <label class="form-check-label" for="exampleCheck1">I agree to the <a href="toc.html">Terms</a> and <a href="toc.html">Conditions</a> that I probably did not read.</label>
-                </div>
+<div class="mb-3 form-check">
+    <label class="form-check-label" for="exampleCheck1">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+        I agree to the <a href="toc.html">Terms</a> and <a href="toc.html">Conditions</a> that I probably did not read.
+    </label>
+</div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>
+    <center><footer>Made by <a href="https://github.com/MattTheTekie">MattTheTekie</a> & <a href="https://github.com/Dakotath">Dakotath</a></footer></center>
             </div>
         </div>
     </body>
-    <footer>Made by <a href="https://github.com/MattTheTekie">MattTheTekie</a> & <a href="https://github.com/Dakotath">Dakotath</a></footer>
 <script>
     function validateForm() {
         var fileInput = document.getElementById('streetPassFile');
