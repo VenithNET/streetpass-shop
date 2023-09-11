@@ -1,7 +1,7 @@
 #StreetPass Shop
 Welcome to the StreetPass Shop UniStore!
 You can download all the StreetPass data you can dream of in our UniStore!
-If you would like to contribute to the dataset please upload your streetpass data at https://streetpass.test72.eu.org
+If you would like to contribute to the dataset please upload your streetpass data at https://streetpass.venith.net
 Our current dataset is based on the Google Drive link on page 8 of the StreetPass 2.0 Rise from the ashes thread on GBATemp, and a few other contributers.
 
 HOSTING:
