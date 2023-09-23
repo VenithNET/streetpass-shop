@@ -3015,6 +3015,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_119"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 120",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! You\u2019ve Been Exclusively Invited To Help Us Launch A New Movement\u2026\r\n\r\nNOTE: THIS IS NOT A NORMAL PRODUCT LAUNCH\u2026\r\n\r\nThis is launching a new movement, that will pay you long term, residual commissions over time. \r\n\r\nAnd you are here at the beginning\u2026 before anyone else even knows about it.\r\n\r\nHow Is This Different... For YOU !?!\r\n\r\nWe are not looking for you to do a quick promotion, and it be over. We're looking to become partners with you as we launch and grow this amazing community of \"Round Pegs in Square Holes...\"  (This will make more sense when you watch the launch campaigns... ha ha) \r\n\r\nThat means that this is NOT a normal affiliate program. \r\n\r\n- First - we are paying YOU 40% LIFETIME residual commissions!\r\n\r\n- Second - we are paying out TWO-TIER, so when your members refer others, you\u2019ll get paid 10% LIFETIME residual commissions on all of those sales!!!\r\n\r\nWe recommend that you be the first to sign up.\r\n\r\nJoin Here Today\r\n\r\nhttps://bit.ly/Access40percentLifetimeResidualCommissionAffiliateProgram",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_120": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_120",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_120"
+				}
+			]
 		}
 	]
 }
