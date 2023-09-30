@@ -3041,6 +3041,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_120"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 121",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Strategies & Stories From SEO Millionaires\r\n\r\nTake your SEO skills and boost venith.net for the next level.\r\n\r\nFrom Parasite SEO to PBN linking, from fast indexing to ecommerce top Google ranking.\r\n\r\nCharles Floate, the SEO legend, and 12 SEO top rankers will teach you all the secrests, including some blackhat ones.\r\n\r\nAccess the book here\r\n\r\nhttps://bit.ly/StrategiesFromSEOMillonaires",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_121": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_121",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_121"
+				}
+			]
 		}
 	]
 }
