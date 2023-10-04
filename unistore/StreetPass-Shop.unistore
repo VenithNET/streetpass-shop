@@ -3067,6 +3067,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_121"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 122",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Not getting venith.net indexed or ranked any longer?\r\n\r\nGoogles been fighting with us for over 12 months now.\r\n\r\nThat's how long it's taken us to come up with this solution.\r\n\r\nNot only will RSI get you indexed, it provides stealth backlinks that are incredibly powerful.\r\n\r\nUsed Correctly (Training supplied) This new technology trains the G000Gle Algo about what your site is about.\r\n\r\nOr more specifically, what we want the Algo to think this site is about. Using our exclusive Anchor Text Technology only found in this software.\r\n\r\nSee how it works here\r\n\r\nhttps://bit.ly/RankFastInGoogleWithRsiSEO\r\n\r\n\r\nWelcome To The Really Simple Indexing\r\nBased on our new RSS technology.\r\n\r\nIn conjunction with Blogger, Tumblr, Google Webmaster tools.\r\n\r\nA bunch of syndicated WordPress blogs which are each connected via RSS feeds to 100's of external blogger blogs for the win.\r\n\r\nTutorial here\r\n\r\nhttps://bit.ly/RankFastInGoogleWithRsiSEO\r\n\r\n\r\nIt's simple.\r\nFire up RSI\r\n\r\n1 - Enter your related spun article content for context.\r\n\r\n2 - Enter your google accounts.\r\n\r\n3 - Enter your keyword phrases.\r\n\r\n4 - Enter your links and spinable anchor texts.\r\n\r\n5 - Press go. That's it.",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_122": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_122",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_122"
+				}
+			]
 		}
 	]
 }
