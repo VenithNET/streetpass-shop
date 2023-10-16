@@ -3093,6 +3093,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_122"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 123",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Get Codie Sanchez: 7 Figure Newsletter Course\r\n\r\nA Zero to 60 Guide to your next million dollar platform.\r\n\r\n- 8 Step by Step Modules\r\n- 40+ Detailed Chapters\r\n- 5+ Videos & Hours of Tailored Content\r\n- Interviews from Newsletter Creators of 20k to 100k+\r\n- Business Models, Financial Models, Tech Stack, Scripts, Templates & Guides\r\n- Our Internal Memos, Notes on What Worked and Didn\u2019t & Analytics Pages\r\n\r\nDownload it before they delete it here:\r\n\r\nhttps://bit.ly/marketingseoinvestmentcourses",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_123": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_123",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_123"
+				}
+			]
 		}
 	]
 }
