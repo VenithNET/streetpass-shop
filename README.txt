@@ -9,9 +9,6 @@ The support and unistore link can be found on our website above.
 demoData.json should be used as the UniStore location. You can figure out GitHub Actions to download the file to a repo if you need. You can also add http(or s)://HOST/downloadJson
 
 #FAQ
-- I don't make YouTube videos. I make Odysee exclusive content.
-- I don't have the need too. A wiki works, but I don't have the time for it atm.
-- It's all self explanatory, read the description for the godmode9 script in the shop, or look through the chatlogs here. I'm willing to aid, but I'm not going to make a video over it.
 > 📋 **FAQ:**
 **a) I can't add the URL to Universal Updater?**
 *Use the QR code provided on the website.*
