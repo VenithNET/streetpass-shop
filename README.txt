@@ -11,7 +11,7 @@ demoData.json should be used as the UniStore location. You can figure out GitHub
 #FAQ
 > 📋 **FAQ:**
 **a) I can't add the URL to Universal Updater?**
-*Use the QR code provided on the website or https://github.com/CrazyHellTechnologies/streetpass-shop/tree/main/unistore .*
+*Use the URL provided on the website or use the QR code at https://github.com/CrazyHellTechnologies/streetpass-shop/tree/main/unistore .*
 **b) How do I inject the downloaded Streetpass data?**
 *Run the GM9 script you downloaded from the shop, and choose restore , and then choose the StreetPass data file you want to inject. If you didn't download the GM9 script, download it.*
 **c) How do I upload to the StreetPass-Shop?**
