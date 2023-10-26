@@ -14,7 +14,7 @@ Here are the instructions to do so:
 
 3.) Press on the QR Code icon.. you should know, how it looks like.
 
-NOTE: Scan this QR Code there: ![](Store.png)
+NOTE: Scan this QR Code here: ![](Store.png)
 
 After you scanned it, Universal-Updater will download the UniStore + the Spritesheet.. from now on, Universal-Updater will handle the update of the UniStore for you, when there is an update available.
 
