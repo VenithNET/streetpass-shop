@@ -12,6 +12,8 @@ Run the GM9 script you downloaded from the shop, choose restore, and then choose
 c) How do I upload to the StreetPass-Shop?
 Run the GM9 script and select backup instead of restore. Then put the SD into a computer and upload the file to the site.
 https://streetpass.venith.net/
+d) If I upload a updated Streetpass data file what will happen to the old one?
+All copies of the file will be stored, this is a limitation of not having a proper dev team to help me out with this 247. This is a simple flask script and I suggest reading the source code. If you would like to contribute please contact me. My socials are available on my profile at https://github.com/MattTheTekie
 
 HOSTING:
 The support and unistore link can be found on our website above.
