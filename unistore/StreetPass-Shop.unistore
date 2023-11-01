@@ -3119,6 +3119,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_123"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 124",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Are you struggling to make money online? Do you want to learn how to generate multiple sources of income and achieve a 70% profit margin?\r\n\r\nMost online businesses fail because they don't have a solid strategy. They're just throwing ideas against the wall and hoping for the best.\r\n\r\nBut what if there was a proven method that could help you guarantee success?\r\n\r\nSophie's eSelling Machine is a revolutionary method that has helped thousands of people achieve financial freedom through eSelling.\r\n\r\nIn her free introductory mini course, Sophie will reveal her secret eSelling method and show you how to:\r\n\r\n- Generate multiple sources of income\r\n- Achieve a 70% profit margin\r\n- Build a successful online business that works for you\r\n\r\nSign up for Sophie's free introductory mini course today and learn how to achieve financial freedom through eSelling.\r\n\r\nhttps://yfind.net/sophies-20k-month-eselling-method-revealed-learn-how-to-make-money-online/\r\n\r\nSophie is currently offering her free mini course for a limited time only. Don't miss out on this opportunity to learn from the best and start building your dream online business.\r\n\r\nClick here to sign up for Sophie's free mini course today!\r\n\r\nhttps://yfind.net/sophies-20k-month-eselling-method-revealed-learn-how-to-make-money-online/",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_124": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_124",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_124"
+				}
+			]
 		}
 	]
 }
