@@ -3145,6 +3145,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_124"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 125",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Imagine creating animation videos with REAL Humans who speak anything you type!\r\n\r\nGet the AI Humans to speak with perfect lip-sync in any language. Use 300 male and female neural text-to-speech\r\nvoices or upload your own audio!\r\n\r\nYou can get UNLIMITED usage for a ONE-TIME price.\r\n\r\n* There are NO upgrades, No Hidden Fees, No Monthly costs.\r\nYou get access to EVERYTHING!\r\n\r\nCheck Out The Mind Blowing Software Demo Here\r\n\r\nhttps://bit.ly/UnlimitedAITalkingHumanVideoMaker\r\n\r\n(Use Coupon HUMAN for Extra Discount)\r\n\r\nHere are just some incredible features that leave the competition in the dust:\r\n\r\n+ Ultra-Realistic Digital Humans That Speak\r\nANYTHING You Type\r\n+ Photo To Talking Human Character Builder\r\n+ AI Digital Human Photo Generator\r\n+ Hundreds of REAL Human Text-To-Speech Voices\r\n+ Eye Catching Ready-Made Video Templates\r\n+ Robust Drag-and-Drop Video Editor\r\n+ Speech-To-Text Transcription\r\n+ 1-Click Translation\r\n+ Subtitles and Captions\r\n+ Multilingual Support\r\nAnd 50 other powerful features...\r\n\r\nUnlock The One-Time Price With All Bonuses\r\n\r\nhttps://bit.ly/UnlimitedAITalkingHumanVideoMaker\r\n\r\n(Use Coupon HUMAN for Extra Discount)\r\n\r\nCreate videos for any marketing goal in ANY language like VSLs (video sales letters), 3D explainers, animated, educational, e-commerce, social media, youtube presentations and anything you could imagine within minutes!\r\n\r\nWave goodbye to expensive spokespersons, voice artists, high-end editors and expensive apps to create videos!  \r\n\r\nWith the included commercial license you can sell the videos to clients and on freelancer sites for $300 or more.\r\n\r\nGrab This Before The Price Increases\r\n\r\nhttps://bit.ly/UnlimitedAITalkingHumanVideoMaker\r\n\r\n(Use Coupon HUMAN for Extra Discount)\r\n\r\nI value your time, I am giving away bonuses worth thousands when you get HumanPal today...\r\n\r\nBONUS #1: HumanPal Template Request Club ($997/yr Value)\r\n\r\nBONUS #2: Mockups Video Maker App ($997 Value)\r\n\r\nBONUS #3: VideoResizer App With All The Upgrades ($997 Value)\r\n\r\nBONUS #4: VidEditor App With All The Upgrades ($997 Value)\r\n\r\nBONUS #5: HumanPal 10 DAYS Virtual Event Pass ($1497 Value)\r\n\r\nBONUS #6: Meta Marketplace Builder With Web Hosting ($1297 Value)\r\n \r\nBONUS #7: NicheDashboard App With 200+ DFY Marketing Materials ($997 Value)\r\n\r\nBONUS #8: Drag & Drop Website Builder ($997 Value) \r\n\r\nBONUS #9: Done-For-You Call-To-Action Human Voiceovers & Video Sales Scripts ($197 Value)\r\n\r\nBONUS #10: Personal VIP WhatsApp Group Mentorship ($497 Value)\r\n\r\nNote: Keep all the bonuses even if you decide this is not for you and take a refund later. All bonuses are instantly available in the customer portal!\r\n\r\nEnjoy!\r\n\r\nP.S. Due to the incredible demand, the special introductory price may expire without notice.\r\n\r\nSee All The Features Here & Grab The Discount\r\n\r\nhttps://bit.ly/UnlimitedAITalkingHumanVideoMaker\r\n\r\n(Use Coupon HUMAN for Extra Discount)",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_125": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_125",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_125"
+				}
+			]
 		}
 	]
 }
