@@ -3171,6 +3171,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_125"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 126",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Idk, if it works or not, so here\u2019s some information about it: \r\nRegion: United Kingdom, Europe \r\n2 Miis - StreetPass Plaza - Two Miis have cyrillic characters (I'm not Russian btw). \r\n1 Traveller - Tomodachi Life \r\nAnd many more in other games",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_126": [
+				{
+					"type": "downloadFile",
+					"hash": "919b3bf0f731c23e2d4bdbfb425ccbcbbf900fcc5ba2bd29188d5bb622d4627f",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_126",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_126"
+				}
+			]
 		}
 	]
 }
