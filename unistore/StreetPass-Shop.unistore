@@ -2942,7 +2942,7 @@
 			"info": {
 				"title": "StreetPass Data 117",
 				"author": "MattTheTekie",
-				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! tst",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! test",
 				"category": [
 					"3DS"
 				],
@@ -2962,8 +2962,6 @@
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_117"
 				}
-			]
-		}
 			]
 		}
 	]
