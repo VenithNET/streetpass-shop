@@ -16,7 +16,7 @@
     .dark .form-check-label {
         color: #fff; /* Text color for the label in dark mode */
     }
-
+    
     /* Style the file upload input and button in dark mode */
     .dark input[type="file"] {
         background-color: #000; /* Background color when choosing a file */
@@ -48,66 +48,53 @@
                 Welcome to the StreetPass Shop Uploader!
                 <h4>Download the <a href="https://github.com/CrazyHellTechnologies/streetpass-shop/raw/main/unistore/StreetPass-Shop.unistore">UniStore</a></h4>
                 <div id="card-header" class="form-text">The UniStore updates every three hours.</div>
-                <div id="card-header" class="form-text">Source code is available <a href="https://github.com/CrazyHellTechnologies/streetpass-shop">on our GitHub</a>.</div>
+		<div id="card-header" class="form-text">Source code is available <a href="https://github.com/CrazyHellTechnologies/streetpass-shop">on our GitHub</a>.</div>
                 <div id="card-header" class="form-text">In need of support? Check out our <a href="https://gg.gg/CrazyHellTechnologiesChat">Discord</a>.</div>
             </div>
             <div class="card-body">
-            <form id="uploadForm" action="/uploadJson" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
-                <div class="mb-3">
-                    <label for="streetPassFile" class="form-label">StreetPass Data Uploader</label>
-                    <input type="file" class="form-control" id="streetPassFile" name="streetPassFile" aria-describedby="streetPassFileHelp" required>
-                    <div id="streetPassFileHelp" class="form-text">Upload your StreetPass data extracted from the GodMode9 script here.</div>
-                </div>
-                <!-- Add a hidden input field to store the file hash -->
-                <input type="hidden" id="fileHash" name="fileHash" value="">
-                <input type="hidden" id="token" name="token" value="armasecreta666">
-                <hr>
-                <label for="extrainfo" class="form-label">Extra info</label>
-                <div class="mb-3">
-                    <div id="streetPassFileHelp" class="form-text">Optionally put any extra info that you want to show with the StreetPass data in the shop here!</div>
-                    <textarea class="form-control" id="extraInfo" name="extraInfo"></textarea>
-                </div>
-<div class="mb-3 form-check">
-    <label class="form-check-label" for="exampleCheck1">
-        <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
-        I agree to the <a href="toc.html">Terms</a> and <a href="toc.html">Conditions</a> that I probably did not read.
-    </label>
-</div>
-                <button type="submit" class="btn btn-primary">Submit</button>
-            </form>
-    <center><footer>Made by <a href="https://github.com/MattTheTekie">MattTheTekie</a> & <a href="https://github.com/Dakotath">Dakotath</a></footer></center>
+                <form id="uploadForm" action="/uploadJson" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+                    <div class="mb-3">
+                        <label for="streetPassFile" class="form-label">StreetPass Data Uploader</label>
+                        <input type="file" class="form-control" id="streetPassFile" name="streetPassFile" aria-describedby="streetPassFileHelp" required>
+                        <div id="streetPassFileHelp" class="form-text">Upload your StreetPass data extracted from the GodMode9 script here.</div>
+                    </div>
+
+                    <label for="extrainfo" class="form-label">Extra info</label>
+                    <div class="mb-3">
+                        <div id="streetPassFileHelp" class="form-text">Optionally put any extra info that you want to show with the StreetPass data in the shop here!</div>
+                        <textarea class="form-control" id="extraInfo" name="extraInfo"></textarea>
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+                        <label class="form-check-label" for="exampleCheck1">I agree to the <a href="toc.html">Terms</a> and <a href="toc.html">Conditions</a> that I probably did not read.</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                <footer>Made by <a href="https://github.com/MattTheTekie">MattTheTekie</a> & <a href="https://github.com/Dakotath">Dakotath</a></footer>
             </div>
-        </div>
+        </center>
+    </div>
     </body>
 <script>
-    function validateForm() {
-        var fileInput = document.getElementById('streetPassFile');
-        var fileSize = fileInput.files[0].size / (1024 * 1024); // Convert to MB
-        if (fileSize < 54 || fileSize > 56) {
-            alert('This is NOT StreetPass data. Stop using this site as a file host, or risk getting IP blocked!');
-            return false; // Prevent form submission
-        }
-
-        var tosCheckbox = document.getElementById('exampleCheck1');
-        if (!tosCheckbox.checked) {
-            alert('You must agree to the Terms and Conditions.');
-            return false; // Prevent form submission
-        }
-
-        // Calculate SHA-256 hash of the uploaded file and set it in the hidden input field
-        var file = fileInput.files[0];
-        var reader = new FileReader();
-        reader.onload = function(event) {
-            var fileContent = event.target.result;
-            var hash = CryptoJS.SHA256(fileContent).toString(CryptoJS.enc.Hex);
-            document.getElementById('fileHash').value = hash;
-
-            // Now trigger the form submission
-            document.getElementById('uploadForm').submit();
-        };
-        reader.readAsBinaryString(file);
-
-        return false; // Prevent default form submission
+function validateForm() {
+    var fileInput = document.getElementById('streetPassFile');
+    var fileSize = fileInput.files[0].size / (1024 * 1024); // Convert to MB
+    if (fileSize < 54 || fileSize > 56) {
+        alert('This is NOT StreetPass data. Stop using this site as a file host, or risk getting IP blocked!');
+        return false; // Prevent form submission
     }
+
+    var tosCheckbox = document.getElementById('exampleCheck1');
+    if (!tosCheckbox.checked) {
+        alert('You must agree to the Terms and Conditions.');
+        return false; // Prevent form submission
+    }
+
+    // Now trigger the form submission
+    document.getElementById('uploadForm').submit();
+
+    return false; // Prevent default form submission
+}
+
 </script>
 </html>
