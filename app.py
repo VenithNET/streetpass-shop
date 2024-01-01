@@ -35,7 +35,6 @@ def download_json():
 
 @app.route('/uploadJson', methods=['POST'])
 def upload_json():
-
     # Load existing JSON data
     with open("demoData.json", "r") as json_file:
         js_in = json.load(json_file)
@@ -45,8 +44,8 @@ def upload_json():
     f = request.files["streetPassFile"]
     file_hash = hashlib.sha256(f.read()).hexdigest()
 
-    new_filename = "streetpass_" + str(cur_entries + 2)
-    f.save(os.path.join("uploadedFiles", new_filename))
+    # Reset the file cursor to the beginning
+    f.seek(0)
 
     extra_data = request.form.get("extraInfo", "")
 
