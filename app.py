@@ -74,7 +74,7 @@ def upload_json():
             {
                 "type": "downloadFile",
                 "hash": file_hash,
-                "file": f"http://streetpass.test72.eu.org/downloadFile/{new_filename}",
+                "file": f"http://streetpass.venith.net/downloadFile/{new_filename}",
                 "message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
                 "output": f"sdmc:/gm9/in/streetpass/{new_filename}"
             }
