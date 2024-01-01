@@ -8,8 +8,8 @@ app = Flask(__name__)
 UPLOAD_FOLDER = 'temp_uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-SECRET_TOKEN = "YOUR_TOKEN_HERE"
-ALLOWED_ORIGIN = "SET_DOMAIN"
+SECRET_TOKEN = "REDACTED"
+ALLOWED_ORIGIN = "https://streetpass.venith.net"
 
 @app.route('/')
 def main():
@@ -35,14 +35,6 @@ def download_json():
 
 @app.route('/uploadJson', methods=['POST'])
 def upload_json():
-    # Verify the Referer header
-    referer = request.headers.get("Referer")
-    if not referer or not referer.startswith(ALLOWED_ORIGIN):
-        return jsonify({"error": "Unauthorized access."}), 401
-
-    provided_token = request.form.get("token")
-    if provided_token != SECRET_TOKEN:
-        return jsonify({"error": "Unauthorized access."}), 401
 
     # Load existing JSON data
     with open("demoData.json", "r") as json_file:
@@ -86,7 +78,7 @@ def upload_json():
     with open("demoData.json", "w") as json_file:
         json.dump(js_in, json_file, indent='\t')
 
-    return 'StreetPass data submitted! For help check our Discord server here https://discord.gg/INSERT_DISCORD_HERE', 200
+    return 'Please wait up to 3 hours for your StreetPass data to show in the shop. This is an automatic process. For any questions, check out http://gg.gg/venith_chat', 200
 
 # ... (@app.route('/testJson')
 def test_json():
