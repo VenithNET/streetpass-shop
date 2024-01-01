@@ -3353,6 +3353,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_132"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 133",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! test",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_133": [
+				{
+					"type": "downloadFile",
+					"hash": "207bb09700107e7ffe216eb7b798bc6e8f92d9265f1104c01c39a260066d7b18",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_133",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_133"
+				}
+			]
 		}
 	]
 }
