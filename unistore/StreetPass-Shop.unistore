@@ -2963,6 +2963,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_117"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 118",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Private invitation to access our new AI tool.\r\n\r\nIntroducing Automatic Trading.\r\n\r\nImagine if your phone could earn you money while you sleep, play video games, or hang out with friends. Sounds too good to be true? Well, it\u2019s not! It\u2019s called automatic trading, and it\u2019s about to make your life a whole lot easier.\r\n\r\nYou can test it for FREE here:\r\n\r\nhttps://yfind.net/make-your-phone-do-the-trading-for-you-introducing-automatic-trading-with-vestinda/",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_118": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_118",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_118"
+				}
+			]
 		}
 	]
 }
