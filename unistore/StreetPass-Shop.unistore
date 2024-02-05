@@ -3015,6 +3015,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_119"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 120",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! PNID Code (3ds) : 2287-4637-2211 (Davide)\r\nI am italian and i love play with friends! I play mario kart 7 frequently\r\n",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_120": [
+				{
+					"type": "downloadFile",
+					"hash": "ef3a5df49bd04311f2f0387a0fa679f233b3bcb0d3bf592373c72155d301cfc0",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_120",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_120"
+				}
+			]
 		}
 	]
 }
