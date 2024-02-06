@@ -3041,6 +3041,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_120"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 121",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Salvataggio di Armandospro ci sono tantissimi dati dentro in modo che sei sicuro di divertirti con i miei dati, ti ringrazio di averli scaricati\r\nArmandospro save there is a lot of data inside so you are sure to have fun with my data, thank you for downloading it",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_121": [
+				{
+					"type": "downloadFile",
+					"hash": "79aeace6414f3e5ef293f526b5e24d5088abbfa0cfed23fa231a157c96f4e534",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_121",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_121"
+				}
+			]
 		}
 	]
 }
