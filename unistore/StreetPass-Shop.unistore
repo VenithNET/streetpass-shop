@@ -54,7 +54,7 @@
 			"streetpass_1": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_1",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_1",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_1"
 				}
@@ -79,7 +79,7 @@
 			"streetpass_2": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_2",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_2",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_2"
 				}
@@ -104,7 +104,7 @@
 			"streetpass_3": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_3",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_3",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_3"
 				}
@@ -129,7 +129,7 @@
 			"streetpass_4": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_4",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_4",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_4"
 				}
@@ -154,7 +154,7 @@
 			"streetpass_5": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_5",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_5",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_5"
 				}
@@ -179,7 +179,7 @@
 			"streetpass_6": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_6",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_6",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_6"
 				}
@@ -204,7 +204,7 @@
 			"streetpass_7": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_7",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_7",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_7"
 				}
@@ -229,7 +229,7 @@
 			"streetpass_8": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_8",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_8",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_8"
 				}
@@ -254,7 +254,7 @@
 			"streetpass_9": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_9",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_9",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_9"
 				}
@@ -279,7 +279,7 @@
 			"streetpass_10": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_10",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_10",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_10"
 				}
@@ -304,7 +304,7 @@
 			"streetpass_11": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_11",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_11",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_11"
 				}
@@ -329,7 +329,7 @@
 			"streetpass_12": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_12",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_12",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_12"
 				}
@@ -354,7 +354,7 @@
 			"streetpass_13": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_13",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_13",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_13"
 				}
@@ -379,7 +379,7 @@
 			"streetpass_14": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_14",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_14",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_14"
 				}
@@ -404,7 +404,7 @@
 			"streetpass_15": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_15",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_15",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_15"
 				}
@@ -429,7 +429,7 @@
 			"streetpass_16": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_16",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_16",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_16"
 				}
@@ -454,7 +454,7 @@
 			"streetpass_17": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_17",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_17",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_17"
 				}
@@ -479,7 +479,7 @@
 			"streetpass_18": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_18",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_18",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_18"
 				}
@@ -504,7 +504,7 @@
 			"streetpass_19": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_19",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_19",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_19"
 				}
@@ -529,7 +529,7 @@
 			"streetpass_20": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_20",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_20",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_20"
 				}
@@ -554,7 +554,7 @@
 			"streetpass_21": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_21",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_21",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_21"
 				}
@@ -579,7 +579,7 @@
 			"streetpass_22": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_22",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_22",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_22"
 				}
@@ -604,7 +604,7 @@
 			"streetpass_23": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_23",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_23",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_23"
 				}
@@ -629,7 +629,7 @@
 			"streetpass_24": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_24",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_24",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_24"
 				}
@@ -654,7 +654,7 @@
 			"streetpass_25": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_25",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_25",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_25"
 				}
@@ -679,7 +679,7 @@
 			"streetpass_26": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_26",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_26",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_26"
 				}
@@ -704,7 +704,7 @@
 			"streetpass_27": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_27",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_27",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_27"
 				}
@@ -729,7 +729,7 @@
 			"streetpass_28": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_28",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_28",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_28"
 				}
@@ -754,7 +754,7 @@
 			"streetpass_29": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_29",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_29",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_29"
 				}
@@ -779,7 +779,7 @@
 			"streetpass_30": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_30",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_30",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_30"
 				}
@@ -804,7 +804,7 @@
 			"streetpass_31": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_31",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_31",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_31"
 				}
@@ -829,7 +829,7 @@
 			"streetpass_32": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_32",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_32",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_32"
 				}
@@ -854,7 +854,7 @@
 			"streetpass_33": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_33",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_33",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_33"
 				}
@@ -879,7 +879,7 @@
 			"streetpass_34": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_34",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_34",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_34"
 				}
@@ -904,7 +904,7 @@
 			"streetpass_35": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_35",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_35",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_35"
 				}
@@ -929,7 +929,7 @@
 			"streetpass_36": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_36",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_36",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_36"
 				}
@@ -954,7 +954,7 @@
 			"streetpass_37": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_37",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_37",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_37"
 				}
@@ -979,7 +979,7 @@
 			"streetpass_38": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_38",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_38",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_38"
 				}
@@ -1004,7 +1004,7 @@
 			"streetpass_39": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_39",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_39",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_39"
 				}
@@ -1029,7 +1029,7 @@
 			"streetpass_40": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_40",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_40",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_40"
 				}
@@ -1054,7 +1054,7 @@
 			"streetpass_41": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_41",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_41",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_41"
 				}
@@ -1079,7 +1079,7 @@
 			"streetpass_42": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_42",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_42",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_42"
 				}
@@ -1104,7 +1104,7 @@
 			"streetpass_43": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_43",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_43",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_43"
 				}
@@ -1129,7 +1129,7 @@
 			"streetpass_44": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_44",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_44",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_44"
 				}
@@ -1154,7 +1154,7 @@
 			"streetpass_45": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_45",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_45",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_45"
 				}
@@ -1179,7 +1179,7 @@
 			"streetpass_46": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_46",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_46",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_46"
 				}
@@ -1204,7 +1204,7 @@
 			"streetpass_47": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_47",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_47",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_47"
 				}
@@ -1229,7 +1229,7 @@
 			"streetpass_48": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_48",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_48",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_48"
 				}
@@ -1254,7 +1254,7 @@
 			"streetpass_49": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_49",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_49",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_49"
 				}
@@ -1279,7 +1279,7 @@
 			"streetpass_50": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_50",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_50",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_50"
 				}
@@ -1304,7 +1304,7 @@
 			"streetpass_51": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_51",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_51",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_51"
 				}
@@ -1329,7 +1329,7 @@
 			"streetpass_52": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_52",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_52",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_52"
 				}
@@ -1354,7 +1354,7 @@
 			"streetpass_53": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_53",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_53",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_53"
 				}
@@ -1379,7 +1379,7 @@
 			"streetpass_54": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_54",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_54",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_54"
 				}
@@ -1404,7 +1404,7 @@
 			"streetpass_55": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_55",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_55",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_55"
 				}
@@ -1429,7 +1429,7 @@
 			"streetpass_56": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_56",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_56",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_56"
 				}
@@ -1454,7 +1454,7 @@
 			"streetpass_57": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_57",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_57",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_57"
 				}
@@ -1479,7 +1479,7 @@
 			"streetpass_58": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_58",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_58",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_58"
 				}
@@ -1504,7 +1504,7 @@
 			"streetpass_59": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_59",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_59",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_59"
 				}
@@ -1529,7 +1529,7 @@
 			"streetpass_60": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_60",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_60",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_60"
 				}
@@ -1554,7 +1554,7 @@
 			"streetpass_61": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_61",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_61",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_61"
 				}
@@ -1579,7 +1579,7 @@
 			"streetpass_62": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_62",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_62",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_62"
 				}
@@ -1604,7 +1604,7 @@
 			"streetpass_63": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_63",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_63",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_63"
 				}
@@ -1629,7 +1629,7 @@
 			"streetpass_64": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_64",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_64",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_64"
 				}
@@ -1654,7 +1654,7 @@
 			"streetpass_65": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_65",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_65",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_65"
 				}
@@ -1679,7 +1679,7 @@
 			"streetpass_66": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_66",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_66",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_66"
 				}
@@ -1704,7 +1704,7 @@
 			"streetpass_67": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_67",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_67",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_67"
 				}
@@ -1729,7 +1729,7 @@
 			"streetpass_68": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_68",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_68",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_68"
 				}
@@ -1754,7 +1754,7 @@
 			"streetpass_69": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_69",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_69",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_69"
 				}
@@ -1779,7 +1779,7 @@
 			"streetpass_70": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_70",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_70",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_70"
 				}
@@ -1804,7 +1804,7 @@
 			"streetpass_71": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_71",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_71",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_71"
 				}
@@ -1829,7 +1829,7 @@
 			"streetpass_72": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_72",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_72",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_72"
 				}
@@ -1854,7 +1854,7 @@
 			"streetpass_73": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_73",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_73",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_73"
 				}
@@ -1879,7 +1879,7 @@
 			"streetpass_74": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_74",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_74",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_74"
 				}
@@ -1904,7 +1904,7 @@
 			"streetpass_75": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_75",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_75",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_75"
 				}
@@ -1929,7 +1929,7 @@
 			"streetpass_76": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_76",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_76",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_76"
 				}
@@ -1954,7 +1954,7 @@
 			"streetpass_77": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_77",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_77",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_77"
 				}
@@ -1979,7 +1979,7 @@
 			"streetpass_78": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_78",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_78",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_78"
 				}
@@ -2004,7 +2004,7 @@
 			"streetpass_79": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_79",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_79",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_79"
 				}
@@ -2029,7 +2029,7 @@
 			"streetpass_80": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_80",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_80",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_80"
 				}
@@ -2054,7 +2054,7 @@
 			"streetpass_81": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_81",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_81",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_81"
 				}
@@ -2079,7 +2079,7 @@
 			"streetpass_82": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_82",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_82",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_82"
 				}
@@ -2104,7 +2104,7 @@
 			"streetpass_83": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_83",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_83",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_83"
 				}
@@ -2129,7 +2129,7 @@
 			"streetpass_84": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_84",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_84",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_84"
 				}
@@ -2154,7 +2154,7 @@
 			"streetpass_85": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_85",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_85",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_85"
 				}
@@ -2179,7 +2179,7 @@
 			"streetpass_86": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_86",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_86",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_86"
 				}
@@ -2204,7 +2204,7 @@
 			"streetpass_87": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_87",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_87",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_87"
 				}
@@ -2229,7 +2229,7 @@
 			"streetpass_88": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_88",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_88",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_88"
 				}
@@ -2254,7 +2254,7 @@
 			"streetpass_89": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_89",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_89",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_89"
 				}
@@ -2279,7 +2279,7 @@
 			"streetpass_90": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_90",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_90",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_90"
 				}
@@ -2304,7 +2304,7 @@
 			"streetpass_91": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_91",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_91",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_91"
 				}
@@ -2329,7 +2329,7 @@
 			"streetpass_92": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_92",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_92",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_92"
 				}
@@ -2354,7 +2354,7 @@
 			"streetpass_93": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_93",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_93",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_93"
 				}
@@ -2379,7 +2379,7 @@
 			"streetpass_94": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_94",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_94",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_94"
 				}
@@ -2404,7 +2404,7 @@
 			"streetpass_95": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_95",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_95",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_95"
 				}
@@ -2429,7 +2429,7 @@
 			"streetpass_96": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_96",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_96",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_96"
 				}
@@ -2454,7 +2454,7 @@
 			"streetpass_97": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_97",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_97",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_97"
 				}
@@ -2479,7 +2479,7 @@
 			"streetpass_98": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_98",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_98",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_98"
 				}
@@ -2504,7 +2504,7 @@
 			"streetpass_99": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_99",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_99",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_99"
 				}
@@ -2529,7 +2529,7 @@
 			"streetpass_100": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_100",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_100",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_100"
 				}
@@ -2554,7 +2554,7 @@
 			"streetpass_101": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_101",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_101",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_101"
 				}
@@ -2579,7 +2579,7 @@
 			"streetpass_102": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_102",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_102",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_102"
 				}
@@ -2604,7 +2604,7 @@
 			"streetpass_103": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_103",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_103",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_103"
 				}
@@ -2629,7 +2629,7 @@
 			"streetpass_104": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_104",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_104",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_104"
 				}
@@ -2654,7 +2654,7 @@
 			"streetpass_105": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_105",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_105",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_105"
 				}
@@ -2679,7 +2679,7 @@
 			"streetpass_106": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_106",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_106",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_106"
 				}
@@ -2704,7 +2704,7 @@
 			"streetpass_107": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_107",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_107",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_107"
 				}
@@ -2729,7 +2729,7 @@
 			"streetpass_108": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_108",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_108",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_108"
 				}
@@ -2754,7 +2754,7 @@
 			"streetpass_109": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_109",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_109",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_109"
 				}
@@ -2779,7 +2779,7 @@
 			"streetpass_110": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_110",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_110",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_110"
 				}
@@ -2804,7 +2804,7 @@
 			"streetpass_111": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_111",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_111",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_111"
 				}
@@ -2829,7 +2829,7 @@
 			"streetpass_112": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_112",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_112",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_112"
 				}
@@ -2854,7 +2854,7 @@
 			"streetpass_113": [
 				{
 					"type": "downloadFile",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_113",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_113",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_113"
 				}
@@ -2880,7 +2880,7 @@
 				{
 					"type": "downloadFile",
 					"hash": "755dd5276530b439ca2c54d2c74ed9f1077b31e892a03ab44e089b668e7cddfd",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_117",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_117",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_117"
 				}
@@ -2906,7 +2906,7 @@
 				{
 					"type": "downloadFile",
 					"hash": "3adee64ea98e8beb5e3b4fd2711b1ed8cc3c9adc0cccb06cce96e4e8b294af3b",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_115",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_115",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_115"
 				}
@@ -2932,7 +2932,7 @@
 				{
 					"type": "downloadFile",
 					"hash": "3adee64ea98e8beb5e3b4fd2711b1ed8cc3c9adc0cccb06cce96e4e8b294af3b",
-					"file": "http://streetpass.test72.eu.org/downloadFile/streetpass_116",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_116",
 					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
 					"output": "sdmc:/gm9/in/streetpass/streetpass_116"
 				}
