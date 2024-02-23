@@ -3067,6 +3067,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_121"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 122",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Find the Top 0.01% of E\u2011commerce Products to Sell to Launch Your Business\u2026\r\n\r\nEven if You\u2019ve Never Sold Online Before!\r\n\r\nPlus, get access to advanced tools to spy on your competitors, uncover the most profitable keywords, and track exact profits!\r\n\r\nThere are $353M products you could possibly sell online.\r\n\r\nBut 99.99% of them will be a waste of your time, money, and energy.\r\n\r\nThat\u2019s because only 0.01% of products are even worth pursuing.\r\n\r\nLuckily, finding that 0.01% isn\u2019t too hard.\r\n\r\nWhich is why I believe anybody with a good head on their shoulders can do it.\r\n\r\nTest our cutting\u2011edge software that helps you start and scale an e\u2011commerce business all in one place.\r\n\r\nhttps://bit.ly/BestAmazonResearchTool",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_122": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_122",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_122"
+				}
+			]
 		}
 	]
 }
