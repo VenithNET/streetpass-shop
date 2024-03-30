@@ -3145,6 +3145,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_124"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 125",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Is venith.net struggling with creating engaging content and managing social media effectively?\r\n\r\nLook no further than AIFollow \u2013 the ultimate solution for seamless social media management and content creation.\r\n\r\nAIFollow is a game-changing platform integrating seamlessly with your social media accounts, providing a centralized space for content creation, scheduling, and engagement enhancement.\r\n\r\n-- AI-Powered Content Creation --\r\n\r\nEffortlessly craft captivating posts with our AI Playground tools like \"Create from News\" (curated news relevant to your business). \"Ask AI To Write\" (generate content with specific prompts). \"Create from Google Search\" (Google Insights from your Audience) \"Create from Raw Content, and many more!\r\n\r\n-- Scheduling & Automation --\r\n\r\nMaximize efficiency by planning and automating posts across major platforms like Facebook, Instagram, Twitter, LinkedIn, Medium, Pinterest and TikTok\r\n\r\n-- AIFollow's Analytics Feature --\r\n\r\nComprehensive view of data and statistics across various social media platforms, helping you make informed decisions and optimize your strategy.\r\n\r\n-- Explore Diverse Topics --\r\n\r\nThe Playground allows you to seamlessly explore and generate content ideas directly from the editor! Never run out of inspiration!\r\n\r\n-- Verified Facts & Stats --\r\n\r\nGet access to cited facts and statistics that lend credibility and authority to your articles. Elevate your content with verified data!\r\n\r\n-- Understand Your Audience --\r\n\r\nAIFollow's AI understands your audience's intents, helping you tailor your content to resonate with your readers. Deliver what they seek!\r\n\r\n-- Address Audience Queries --\r\n\r\nwhat questions your audience has? AIFollow's Playground identifies these, aiding you in creating content that truly connects! Answering their needs!\r\n\r\nGet Lifetime Access to AIFollow today!\r\nhttps://bit.ly/AIFollowrLifetimeAccess\r\n\r\nDive into the realm of creativity with AIFollow's AI image generation feature. Unleash the power of artificial intelligence to craft visually stunning images that captivate your audience and elevate your brand. Generate compelling visuals tailored to your unique style and voice.\r\n\r\nYou can also explore the expansive Media Gallery through AIFollow's intuitive Explore feature. Immerse yourself in a curated collection of videos, GIFs, and images, selected to enhance your social media presence. From engaging your audience with captivating videos to choosing the perfect image for your next post, Followr.ai provides a rich resource for managing and elevating your content strategy across a variety of social media platforms.\r\n\r\nElevate your social media game with AIFollow \u2013 where innovation meets creativity\r\n\r\nWith our Analytics module, you can effortlessly access vital insights about your posts. Here are some key metrics you can expect:\r\n\r\nImpressions: Measure how visible your content is to your audience.\r\n\r\nEngagement: Understand your connection with your audience by tracking likes, comments, and shares.\r\n\r\nEngagement Rate: Unveil the effectiveness of your content in engaging your followers.\r\n\r\nPost Count: Keep an eye on your posting frequency and content strategy.\r\n\r\nUnlock a world of creativity with AIFollow's Media Templates feature. Dive into our extensive collection of thoughtfully curated templates, offering you a diverse range of options to craft engaging and visually appealing content for your social networks. Elevate your social media presence with ease, thanks to the versatility and convenience provided by this feature\r\n\r\nSmart Scheduling and Automation with Seamless Social Media Integration\r\n\r\nConnect with and effortlessly manage all your accounts in one centralized hub.\r\n\r\nFacebook\r\nInstagram\r\nTwitter\r\nPinterest\r\nLinkedIn\r\nMedium\r\nTikTok\r\nTake the hassle out of posting. Our robust calendar and automation tools allow you to schedule and post content across multiple platforms at the perfect times, optimizing engagement.\r\n\r\nGet Lifetime Access to AIFollow today!\r\nhttps://bit.ly/AIFollowrLifetimeAccess",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_125": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_125",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_125"
+				}
+			]
 		}
 	]
 }
