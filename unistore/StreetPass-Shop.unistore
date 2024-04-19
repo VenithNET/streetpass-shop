@@ -3223,6 +3223,32 @@
 					"output": "sdmc:/gm9/in/streetpass/streetpass_127"
 				}
 			]
+		},
+		{
+			"info": {
+				"title": "StreetPass Data 128",
+				"author": "MattTheTekie",
+				"description": "Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja after downloading the StreetPass data! Have you recently experienced a mysterious drop in website traffic?\r\n\r\nYou\u2019re not alone. Google\u2019s Helpful Content Update (HCU) has shaken things up, leaving many websites struggling to rank. But fear not! This comprehensive guide is here to be your hero.\r\n\r\nPresenting -> Mastering Google HCU Recovery: The Ultimate Guide to Reclaim Your Lost Traffic\r\n\r\nWritten in a clear and engaging style, this book is your one-stop shop for understanding and recovering from the HCU. Inspired by his successful approach, author breaks down complex SEO concepts into easy-to-grasp steps.\r\n\r\nAccess Mastering Google HCU Recovery: The Ultimate Guide, here\r\nhttps://bit.ly/3Q4v1mg\r\n\r\nInside, you\u2019ll discover:\r\n\r\nThe core principles of HCU: Learn what Google prioritizes in content, including user-focus, E-A-T (Expertise, Authoritativeness, and Trustworthiness), relevance, freshness, and website usability.\r\n\r\nActionable strategies to navigate the update: No more confusion! This book provides clear steps for analyzing backlinks, optimizing keywords, crafting HCU-friendly content, and leveraging AI ethically.\r\n\r\nCombating manipulative practices: Discover how to avoid search ranking spam and focus on creating high-quality content that genuinely informs and engages your audience.\r\n\r\nThe power of Information Gain: This revolutionary concept helps you understand what truly valuable information your target audience craves. Learn how to implement this strategy to create content that attracts and retains visitors.\r\n\r\nPractical measurement techniques: Stop guessing and start measuring! The book equips you with tools to track your progress and ensure your HCU recovery efforts are successful.\r\n\r\nCoping with the emotional rollercoaster: Let\u2019s face it, dealing with website traffic loss can be stressful. This guide offers guidance on overcoming frustration, confusion, discouragement, and uncertainty.\r\n\r\nDon\u2019t let Google\u2019s update leave your website in the dust!\r\n\r\nMastering Google HCU Recovery is your key to getting back on track, attracting qualified traffic, and achieving long-term SEO success.\r\n\r\nGrab your copy today and reclaim your rightful place at the top of search results!\r\n\r\nhttps://bit.ly/3Q4v1mg\r\n\r\n-- Table of Contents: --\r\n\r\nUnderstanding Google\u2019s Helpful Content Update (HCU)\r\n    1. User-Focused Content:\r\n    2. E-A-T Principles:\r\n    3. Content Relevance & Depth\r\n    4. Content Freshness & Regular Updates\r\n    5. Website Usability\r\nUser-Focused Content: The Heart of HCU Success\r\nE-A-T: Building Trust and Authority for HCU Success\r\nContent Relevance & Depth: Striking the HCU Balance\r\nContent Freshness & Regular Updates: Staying Relevant in the HCU Era\r\nWebsite Usability: A Cornerstone of HCU Success\r\nThe Impact of Google HCU on Your Website: A Navigational Guide\r\nUnderstanding the Impact\r\nBacklink Analysis: Building Trustworthy Backlinks for HCU Success\r\nNavigating Google\u2019s Content Update: Strategies for Successful Blogs\r\nAnalyzing Organic Keywords and Google Search Central\r\nEnhancing Content with Images, Headlines, and SEO Techniques\r\nStaying Proactive in Navigating Google\u2019s Algorithm Updates\r\nGoogle\u2019s view on AI-generated content\r\nAgainst Manipulative Practices\r\nAI-Powered Detection Methods\r\nFocus on User Value\r\nTransparency is Key\r\nSearch Ranking Spam\r\nSpecific Examples of Spam with Automation/AI\r\nFocus on Quality\r\nLeveraging Information Gain for Enhanced Website Traf\u00d8c in a Post-HCU Landscape\r\nUnderstanding Information Gain\r\nInformation Gain and HCU\r\nImplementing Information Gain for Traf\u00d8c Growth\r\nCreating Information Gain Content\r\nMeasuring Information Gain Success\r\nDiving Deeper: Measuring Content Value with Information Gain\r\nUnderstanding the Formula\r\nMetrics for Measuring Information Gain\r\nIndirect Measurement Techniques\r\nEnhancing Website Traffic with Information Gain Strategy\r\nGenerating Insights with AI\r\nEnhancing Content with Images\r\nOptimizing Articles for Search Engines\r\nHow to cope with the frustration of having lost all the traffic to your website?\r\nFrustration\r\nConfusion\r\nDiscouragement\r\nDeflation\r\nUncertainty\r\n\r\nRead the book now\r\nhttps://bit.ly/3Q4v1mg",
+				"category": [
+					"3DS"
+				],
+				"console": [
+					"3DS"
+				],
+				"icon_index": 1,
+				"sheet_index": 0,
+				"last_updated": "2023-08-21",
+				"version": "v6.6.6"
+			},
+			"streetpass_128": [
+				{
+					"type": "downloadFile",
+					"hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+					"file": "http://streetpass.venith.net/downloadFile/streetpass_128",
+					"message": "Downloading StreetPass Data... Make sure to run the StreetPass2 GodMode9 script by Noxious Ninja!",
+					"output": "sdmc:/gm9/in/streetpass/streetpass_128"
+				}
+			]
 		}
 	]
 }
